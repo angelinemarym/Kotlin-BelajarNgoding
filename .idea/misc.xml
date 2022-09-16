@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/drawable/bg_btn_auth_color_primary.xml" value="0.229" />
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/drawable/bg_btn_auth_color_white.xml" value="0.229" />
+        <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/drawable/bg_btn_logout.xml" value="0.2215" />
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/drawable/bg_edit_text.xml" value="0.229" />
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/drawable/bg_edit_text_search.xml" value="0.229" />
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/drawable/bg_index.xml" value="0.2175" />
@@ -15,7 +16,11 @@
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/layout/activity_register.xml" value="0.25" />
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/layout/activity_user.xml" value="0.25" />
         <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/layout/item_material.xml" value="0.29875" />
+        <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/layout/item_page.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/layout/layout_markdown.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Angeline Mary M/Documents/BelajarNgoding/app/src/main/res/layout/layout_youtube.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>

@@ -10,6 +10,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        // Untuk library markdown
+        maven { url 'https://jitpack.io' }
+        // Untuk library youtube dan anko
+        maven { url 'https://jcenter.bintray.com' }
     }
 }
 rootProject.name = "Belajar Ngoding"
